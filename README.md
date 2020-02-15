@@ -1,7 +1,7 @@
 # Info
-The web project is based on Spring famework. 
-Operation process:
-web UI:
+The web project is based on Spring famework.  
+Operation process:  
+web UI:  
 ![Image text](https://github.com/baoyangisapig/image/blob/master/screen1.png)
 
 
